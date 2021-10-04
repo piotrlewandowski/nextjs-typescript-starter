@@ -1,0 +1,21 @@
+{
+  "plugins": ["@typescript-eslint"],
+  "extends": [
+    "next/core-web-vitals",
+    "plugin:react/recommended",
+    "prettier"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "rules": {
+    "@typescript-eslint/explicit-module-boundary-types": "off",
+    "@typescript-eslint/explicit-function-return-type": "off",
+    "@typescript-eslint/no-unused-vars": "off",
+    "@typescript-eslint/no-explicit-any": "off",
+    "indent": ["error", 2, { "SwitchCase": 1 }],
+    "quotes": ["error", "single"],
+    "semi": ["error", "always"],
+    "no-console": ["error", { "allow": ["error", "warn", "info"] }],
+    "no-multiple-empty-lines": ["warn", { "max": 1 }],
+    "react/react-in-jsx-scope": "off"
+  }
+}
