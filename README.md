@@ -1,6 +1,6 @@
-# Next.js TypeScript
+# Next.js TypeScript Starter
 
-This is a [Next.js](https://nextjs.org/) starter bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) TypeScript Starter bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 It contains:
 - [Next.js](https://nextjs.org/) 11.1.2
 - [React](https://reactjs.org/) 17.0.2
