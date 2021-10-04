@@ -41,3 +41,9 @@ It contains:
 - `npm run stylelint:check` - execute stylelint check
 
 - `npm run stylelint:fix` - execute stylelint check and automatically fix problems
+
+- `npm run analyze` - generate interactive treemap visualization of the contents of the bundles (both server and client bundles)
+
+- `npm run analyze:server` - generate visualization of the server bundles
+
+- `npm run analyze:browser` - generate visualization of the client bundles
