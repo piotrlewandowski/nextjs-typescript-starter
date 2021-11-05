@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "export": "next export",
     "start": "next start",
     "eslint:check": "eslint --ext .ts,.tsx --format friendly ./",
     "eslint:fix": "eslint --fix --ext .ts,.tsx --format friendly ./",
