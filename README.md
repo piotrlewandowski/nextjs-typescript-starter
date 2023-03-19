@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) TypeScript Starter bootstrapped with [`
 It contains:
 - [Next.js](https://nextjs.org/) 13.1.6
 - [React](https://reactjs.org/) 18.2.0
-- [TypeScript](https://www.typescriptlang.org/) 4.9.5
+- [TypeScript](https://www.typescriptlang.org/) 5.0.2
 - [Next.js Fast Refresh](https://nextjs.org/docs/basic-features/fast-refresh)
 - Sass/SCSS support
 - ES6 linting
