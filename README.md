@@ -2,9 +2,9 @@
 
 This is a [Next.js](https://nextjs.org/) TypeScript Starter bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 It contains:
-- [Next.js](https://nextjs.org/) 13.1.6
+- [Next.js](https://nextjs.org/) 13.3.0
 - [React](https://reactjs.org/) 18.2.0
-- [TypeScript](https://www.typescriptlang.org/) 5.0.2
+- [TypeScript](https://www.typescriptlang.org/) 5.0.4
 - [Next.js Fast Refresh](https://nextjs.org/docs/basic-features/fast-refresh)
 - Sass/SCSS support
 - ES6 linting
