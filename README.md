@@ -2,7 +2,7 @@
 
 This is a [Next.js](https://nextjs.org/) TypeScript Starter bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 It contains:
-- [Next.js](https://nextjs.org/) 14.2.3
+- [Next.js](https://nextjs.org/) 14.2.8
 - [React](https://reactjs.org/) 18.3.1
 - [TypeScript](https://www.typescriptlang.org/) 5.4.5
 - [Next.js Fast Refresh](https://nextjs.org/docs/basic-features/fast-refresh)
